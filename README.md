@@ -1,4 +1,7 @@
-# AI Chatterbox - Software Project (SA RedBack)
+# AI Chatterbox - Software Project (COMP90082 Semester 2 2024 -- Team: SA RedBack)
+
+> 📁 This repository is archived for academic record purposes only.  
+> No active development or deployment.
 
 Welcome to the SA RedBack project! The AI Chatterbox is a web-based AI chatbot designed to stimulate creativity and critical thinking by generating speculative "What If" questions based on user input. This project aims to promote interdisciplinary dialogue through engaging and thought-provoking questions.
 
