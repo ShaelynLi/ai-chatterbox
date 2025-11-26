@@ -1,4 +1,5 @@
-# AI Chatterbox - Software Project (COMP90082 Semester 2 2024 -- Team: SA RedBack)
+# AI Chatterbox - Software Project 
+(COMP90082 Semester 2 2024 -- Team: SA RedBack)
 
 > 📁 This repository is archived for academic record purposes only.  
 > No active development or deployment.
