@@ -6,6 +6,11 @@
 
 Welcome to the SA RedBack project! The AI Chatterbox is a web-based AI chatbot designed to stimulate creativity and critical thinking by generating speculative "What If" questions based on user input. This project aims to promote interdisciplinary dialogue through engaging and thought-provoking questions.
 
+<img width="744" height="552" alt="Screenshot 2025-12-01 at 3 35 30 pm" src="https://github.com/user-attachments/assets/2c2eb63a-2ae3-4c95-8018-dfc0cce66e45" />
+<img width="744" height="552" alt="Screenshot 2025-12-01 at 3 35 46 pm" src="https://github.com/user-attachments/assets/877c79dd-a7a1-4257-be5a-5346f2a33eea" />
+<img width="744" height="552" alt="Screenshot 2025-12-01 at 3 36 00 pm" src="https://github.com/user-attachments/assets/6e02655f-e7f7-4069-8a8e-203ef52730d8" />
+<img width="716" height="597" alt="Screenshot 2025-12-01 at 3 36 48 pm" src="https://github.com/user-attachments/assets/0030a439-73f6-46d7-b4c0-02def72b7f86" />
+
 ## Table of Contents
 
 - [Project Overview](#project-overview)
